@@ -1,4 +1,4 @@
-const {createGesture} = require('@ionic/vue');
+import { createGesture } from "@ionic/vue";
 
 export const DisableSwipeBackDirective = {
   beforeMount(el) {
