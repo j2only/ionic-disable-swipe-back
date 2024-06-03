@@ -7,6 +7,7 @@
         "index.js"
     ],
     "main": "index.js",
+    "scripts": {},
     "license": "MIT",
     "repository": {
         "type": "git",
