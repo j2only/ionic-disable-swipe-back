@@ -1,24 +1,28 @@
 {
-  "name": "v-disable-swipe-back",
-  "version": "1.0.4",
-  "description": "This vue 3 directive for ionic framework, disables switching the previous route if the user makes a swipe on device iOS",
-  "main": "index.js",
-  "repository": "https://github.com/Sitronik/v-disable-swipe-back.git",
-  "author": "Sitronik <sitronik92@mail.ru>",
-  "license": "MIT",
-  "scripts": {},
-  "files": [
-    "index.js"
-  ],
-  "dependencies": {},
-  "devDependencies": {},
-  "keywords": [
-    "vue 3",
-    "directive",
-    "ionic",
-    "disable swipe back"
-  ],
-  "bugs": {
-    "url": "https://github.com/Sitronik/v-disable-swipe-back/issues"
-  }
+    "name": "@j2only/ionic-disable-swipe-back",
+    "version": "1.0.5",
+    "description": "Vue 3 directive for Ionic framework, disables switching to previous route if the user makes a swipe on iOS devices",
+    "author": "Anton Zolotov <antonzolotov@outlook.com>",
+    "files": [
+        "index.js"
+    ],
+    "main": "index.js",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/j2only/ionic-disable-swipe-back.git"
+    },
+    "bugs": {
+        "url": "https://github.com/j2only/ionic-disable-swipe-back/issues"
+    },
+    "keywords": [
+        "vue 3",
+        "directive",
+        "ionic",
+        "swipe",
+        "disable swipe",
+        "disable swipe back",
+        "j2only",
+        "import"
+    ]
 }
