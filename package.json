@@ -1,13 +1,13 @@
 {
     "name": "@j2only/ionic-disable-swipe-back",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "Vue 3 directive for Ionic framework, disables switching to previous route if the user makes a swipe on iOS devices",
     "author": "Anton Zolotov <antonzolotov@outlook.com>",
     "files": [
         "index.js"
     ],
     "main": "index.js",
-    "scripts": {},
+    "types": "index.d.ts",
     "license": "MIT",
     "repository": {
         "type": "git",
@@ -25,5 +25,6 @@
         "disable swipe back",
         "j2only",
         "import"
-    ]
+    ],
+    "packageManager": "yarn@4.7.0"
 }
