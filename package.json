@@ -1,6 +1,6 @@
 {
     "name": "@j2only/ionic-disable-swipe-back",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "Vue 3 directive for Ionic framework, disables switching to previous route if the user makes a swipe on iOS devices",
     "author": "Anton Zolotov <antonzolotov@outlook.com>",
     "files": [
