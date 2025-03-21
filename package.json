@@ -4,7 +4,8 @@
     "description": "Vue 3 directive for Ionic framework, disables switching to previous route if the user makes a swipe on iOS devices",
     "author": "Anton Zolotov <antonzolotov@outlook.com>",
     "files": [
-        "index.js"
+        "index.js",
+        "index.d.ts"
     ],
     "main": "index.js",
     "types": "index.d.ts",
